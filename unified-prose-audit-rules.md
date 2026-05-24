@@ -59,7 +59,7 @@
 
 | Rule | Detail |
 |------|--------|
-| **No meta-commentary** | Characters do not reference narrative devices, story structure, or arc beats. No "this was the moment everything changed." Prose remains inside character's immediate consciousness. |
+| **No meta-commentary** | Characters do not reference narrative devices, story structure, or arc beats. No "this was the moment everything changed." Prose remains inside character's immediate consciousness. Characters do not reference narrative devices, story structure, arc beats, or label their own psychological processes (e.g., "first stage of grief," "cognitive refuge level one"). Prose remains inside character's immediate, unlabeled experience. |
 | **No manufactured cliffhangers** | Interruption mid-speech must be organic—external event, not author withholding. Cutoff serves scene, not chapter break. |
 | **Descriptive economy** | In establishing shots, use fewest details that do double work—conveying setting, mood, and character perception simultaneously. Depth over breadth. |
 | **No overcorrection** | Compliance with rules must not strip voice, rhythm, or interiority. Rules serve immersion; do not replace it. Prose must breathe. |
