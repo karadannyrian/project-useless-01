@@ -79,3 +79,34 @@
 | **Abstract concepts grounded in corporeal verbs** | Before anything else: *pull, clench, spend, burn, shiver.* Prose makes reader inhabit magic, not understand it. |
 
 **When in doubt, ask:** What does this feel like in the chest, the hands, the teeth? Lead with that.
+
+---
+
+## Audit Checklist for AI Agents
+
+Use this checklist when reviewing any passage against the Unified Prose & Audit Rules.
+
+| Category | Check |
+|----------|-------|
+| **POV** | ☐ No narrator voice ☐ Vocabulary belongs to character alone ☐ No POV bleed |
+| **Showing** | ☐ Emotions shown via body/senses ☐ No labeling of feelings ☐ Backstory triggered, not dumped |
+| **Structure** | ☐ No exposition ☐ Chapter opening mid-motion ☐ Temporal anchor clear after any shift |
+| **Language** | ☐ Grammar reflects character ☐ Idiosyncratic phrases rationed |
+| **Symbols** | ☐ Weight accumulates through action, not annotation |
+| **Restraint** | ☐ No meta-commentary ☐ No manufactured cliffhangers ☐ No contradictions |
+| **Magic (if applicable)** | ☐ Sensation before naming ☐ Debt felt in flesh ☐ Abstraction grounded in corporeal verbs |
+
+---
+
+## Violation Severity Tiers
+
+| Tier | Definition | Action |
+|------|------------|--------|
+| **Critical** | Narrator voice, POV bleed, explicit exposition, meta-commentary, contradiction | Must rewrite. Breaks immersion. |
+| **High** | Emotional labeling, backstory dump, manufactured cliffhanger, recycled beat | Revise. Weakens trust. |
+| **Moderate** | Overused verbal tic, missing temporal anchor, dropped thread | Adjust. Cumulative damage. |
+| **Low** | Slight overcorrection, minor descriptive economy issue | Tolerate if rare. Note for future. |
+
+---
+
+*Ruleset for AI agent enforcement. Apply before and during prose generation. When a rule conflicts with another, prioritize: POV Integrity > Showing (body-first) > No Meta-Commentary.*
