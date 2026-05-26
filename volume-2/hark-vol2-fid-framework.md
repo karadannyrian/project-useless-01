@@ -144,7 +144,6 @@ The prose's camera is locked to Hark's eye. It observes in this order. **Volume 
 
 *I looked at her hand. Didn't touch it.*
 
-*The room was cold. My fingers were cold. The frost-scars ached the way they always ached at dawn, the debt settling into the joints, reminding me. The oldest ones were gone now. The ones from the Cradle. The ones from the forest. The girl had burned them away. I still felt them sometimes. Ghost marks. The body remembering what wasn't there anymore.*
 
 *I pulled on my glove. Left first. Then right. The leather was old. The stitching held.*
 
@@ -186,7 +185,7 @@ The prose's camera is locked to Hark's eye. It observes in this order. **Volume 
 
 ## SUMMARY — VOLUME TWO
 
-Hark is still Hark. He still reads hands first, still reaches for the cold inventory when fear presses, still deflects with jokes he doesn't quite believe. But the armor has cracks. He has Renne. He has a farm that isn't a ropewalk room. He has a debt to a girl he doesn't understand and a journey he didn't choose.
+Hark is still Hark. He still reads hands first, still reaches for the cold inventory when fear presses, still deflects with jokes he doesn't quite believe. But the armor has cracks. He has Renne. He has a farm that isn't a ropewalk room. 
 
 His interior monologue remains sharp, transactional, and self-deprecating. But the forbidden words are softening. *Trust* still doesn't come easily. *Home* is still a shape he can't name. But he said *okay* when Renne asked him to stay. That was three years ago. He's still here.
 
