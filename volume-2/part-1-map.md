@@ -1,4 +1,4 @@
-# Volume Two: The Null-Flame — Part One: Salthaven (Revised)
+# Volume Two: The Null-Flame — Part One: Salthaven
 
 ## Chapter 1: The Door Was Grey
 
@@ -90,7 +90,7 @@
 
 ---
 
-Chapter 4: The Message (Revised)
+# Chapter 4: The Message
 POV: Hark
 
 Setting: The farm, Confederacy. Dawn. Grey light through the shutters.
