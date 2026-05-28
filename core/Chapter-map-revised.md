@@ -1,4 +1,4 @@
-# PROJECT USELESS-01: FULL CHAPTER OUTLINE (REVISED POST‑AUDIT)
+# FULL CHAPTER OUTLINE (REVISED POST‑AUDIT)
 
 ## 30 Chapters + Prologue + Epilogue
 
@@ -42,7 +42,7 @@
 **Setting:** Crown of Winter – a tavern. Midnight. Snow.  
 **Temporal anchor:** Three days after leaving Joel’s grave.
 
-**Opening line:** *“The contract said three. I’d found four.”*
+**Opening line:** *“The contract said three. He’d found four.”*
 
 **Scene breakdown:**
 1. Hark runs observational hierarchy: hands, exits, weapons.
