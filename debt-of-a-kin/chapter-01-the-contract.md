@@ -2,7 +2,7 @@
 
 ---
 
-The contract said three. I'd found four.
+The contract said three. He'd found four.
 
 Six hours ago, now. Hark turned the cup in his fingers and didn't drink.
 
