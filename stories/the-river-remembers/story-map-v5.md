@@ -1,7 +1,3 @@
-Here is the **final merged document**, now **Version 5**, with all three of your documents consolidated into a single, complete, and coherent story architecture for *Volume One: The River Remembers*.
-
----
-
 # VERSION 5: THE RIVER REMEMBERS — COMPLETE STORY ARCHITECTURE
 
 ## WORLD CONTEXT
