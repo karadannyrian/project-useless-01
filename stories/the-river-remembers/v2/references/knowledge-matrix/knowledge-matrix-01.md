@@ -143,13 +143,13 @@ Renne does not appear in Chapter 1. She is not in Alexandria's awareness at all.
 
 ### What Alexandria Knows (from briefing):
 - House Kellan is a minor noble merchant family with Order ties
-- Vallus Kellan is the head of the house
+- Vallus Kellan is a young nobleman who handles the escort arrangements
 - She will be presented as a junior escort-in-training
 - House Kellan's legitimate business provides her cover
 
 ### What Alexandria Does NOT Know:
-- Vallus Kellan's personal character
-- That Vallus will become fond of her
+- Vallus Kellan's personal character (beyond what her briefing covered)
+- That Vallus will develop a one-sided crush on her
 - That Vallus will freeze during the bandit ambush
 - That Vallus will offer Hark a mentorship contract
 - The full scope of House Kellan's operations
@@ -228,10 +228,10 @@ Alexandria's perception in Chapter 1 is governed by her training and her nature:
 | Vara | Yes | Handler, retired Water-mage, runs scribe's shop | Vara's doubts, Vara's suspicions, Vara's future defection |
 | Hark | Peripheral only (if at all) | Gloved mercenary, tactical observation only | His identity, his magic, his relationship to Alexandria |
 | Renne | No | Does not know she exists | Everything about Renne |
-| Vallus Kellan | Mentioned only | Name, house, cover identity purpose | His character, his future role |
+| Vallus Kellan | Mentioned only | Young nobleman, arranges escort cover, House Kellan contact | His character, his future crush, his freezing during ambush |
 | Salthaven residents | Background | Observed as environment | The town's complicity, the network's existence |
 | The Order | Referenced | Her employer, her belief system | The Order's lies, the suppressed files, the coming purge |
 
 ---
 
-*End of Chapter One Knowledge Matrix. All subsequent chapters will require equivalent matrices to maintain POV integrity across the ensemble cast.*
+*End of Chapter One Knowledge Matrix.*

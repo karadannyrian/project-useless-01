@@ -38,9 +38,9 @@
 
 ### What Alexandria Catalogs
 
-She catalogs without conscious decision. The habit is too deep. She could no more stop cataloging than she could stop breathing.
+She catalogs without conscious decision. The habit is too deep.
 
-- **Harbor layout:** Single main dock, three secondary piers. The fishing fleet is modest — perhaps twenty vessels, none military. The harbor could not support a naval presence. This is tactically irrelevant but noted.
+- **Harbor layout:** Single main dock, three secondary piers. The fishing fleet is modest — perhaps twenty vessels, none military. The harbor could not support a naval presence. Tactically irrelevant but noted.
 - **Defensive positions:** None. The watchtower is unmanned. There are no walls, no gates, no fortified structures visible from the water. Salthaven is not built for defense. It is built for fishing and rope-making and being left alone.
 - **Exit routes:** Three roads, clearly visible from the harbor approach. She notes each: coastal road (likely to other ports), hill road (likely to inland settlements), interior road (destination unknown, to be determined). A competent evacuation would use all three. A desperate one would scatter into the hills.
 - **The ropewalk:** Dominant structure. Workers visible through the open doors — perhaps a dozen, moving in rhythm. Non-combatants. She files them and dismisses them.
@@ -54,7 +54,7 @@ She reviews the details once, twice. The repetition is unnecessary — she memor
 
 - **Name:** Alexandria Whittier. Her own name. The Order does not change names for Silencers; they have no names to protect. A Silencer is not a person. A Silencer is an instrument. Instruments do not need aliases.
 - **Role:** Junior escort-in-training, House Kellan. Hired through legitimate channels. References provided, background verified. The Order is thorough.
-- **House Kellan:** Minor merchant family, trade in textiles and spices, Order ties through marriage and contract. Vallus Kellan, head of house, mid-forties, no combat training, politically unremarkable.
+- **House Kellan:** Minor merchant family, trade in textiles and spices, Order ties through marriage and contract. Vallus Kellan, young nobleman, handles the escort arrangements. No combat training.
 - **Mission:** Observe. Catalog. Report. Do not engage. This is a training exercise.
 
 She has worn covers before, in training. This is her first alone. The distinction matters only in that she has noted it. She does not feel nervous. Nervousness is an inefficient allocation of attention. She is an instrument of the Order's mercy, and she is ready.
@@ -295,11 +295,11 @@ Alexandria waits. She does not sit. She stands with her back to a wall, her hand
 
 ### Vallus Kellan
 
-He enters through the back hall. A man in his forties, soft at the middle, with a merchant's hands — ringed, uncallused — and a politician's smile. He is not handsome, but his face is pleasant, open, the kind of face that invites trust. He is dressed well but not ostentatiously. His shoes are practical, not fashionable.
+He enters through the back hall. A man in his late twenties, lean in the way of someone who has never done physical labor but is young enough not to show it. A merchant's hands — uncallused, a single ring on his left hand. His smile is quick, genuine, the smile of someone who wants to be liked. He is handsome in an unremarkable way — the kind of face that is pleasant without being memorable, open without being naive.
 
 "Miss Whittier." He extends a hand. "Vallus Kellan. Welcome to Salthaven."
 
-She shakes his hand. His grip is firm, brief, appropriate. His palm is dry. She catalogs: *non-combatant, civilian, no threat indicators.*
+She shakes his hand. His grip is firm, brief, appropriate. His palm is dry. She catalogs: *non-combatant, civilian, no threat indicators. Young for a household authority. Likely heir rather than patriarch. Cooperative.*
 
 "Thank you, Lord Kellan."
 
@@ -326,10 +326,10 @@ Vallus settles into the chair opposite her. He moves like a man who is comfortab
 She files this under *standard hospitality, possibly genuine, not relevant to mission* and follows Toben out of the hall.
 
 ### What Alexandria Does NOT Notice
-- The way Vallus watches her leave — not with suspicion, but with something softer, something almost paternal
-- The way his expression shifts after she is gone, a flicker of something that might be worry
-- The fact that he has never had an Order operative placed in his household before, and he is not entirely comfortable with it
-- The fact that he has already decided to like her, despite himself, because she is young and serious and reminds him of his sister at that age
+- The way Vallus watches her leave — not with suspicion, but with something softer, something almost like the beginning of admiration
+- The way his expression shifts after she is gone, a flicker of something that might be self-consciousness
+- The fact that he has never had an Order operative placed in his household before, and he is not entirely sure how to behave
+- The fact that he has already decided to like her, despite himself, because she is young and serious and unlike anyone he has met in Salthaven
 
 She does not notice any of this. She is already cataloging the hallway, the stairs, the door to the servants' wing. She is already thinking about the mission.
 
@@ -395,6 +395,19 @@ She sleeps.
 
 ---
 
+## Chapter 1 Structural Summary
+
+| Scene | Setting | Function |
+|-------|---------|----------|
+| 1 | Ship, approaching harbor | Establish Alexandria's perceptual mode; introduce Salthaven through her tactical lens |
+| 2 | Dock and streets | First contact with the town; begin catalog of environment; first peripheral sightings of Renne and Hark (unrecognized) |
+| 3 | Vara's shop | Establish handler relationship; receive mission parameters; plant dramatic irony (Vara knows more than she says) |
+| 4 | Walk to House Kellan | Deepen town immersion; second peripheral sighting of Renne; first sighting of Seris (unrecognized) |
+| 5 | House Kellan | Establish cover identity; introduce Vallus Kellan (corrected: young, lean, earnest); plant seed of his growing admiration |
+| 6 | Alexandria's room, alone | Close on stillness; establish her isolation without naming it; end on resonant pause |
+
+---
+
 ## Chapter 1 Closing Mechanics
 
 **Mode:** Resonant pause. The chapter ends on stillness — Alexandria alone in the dark, the harbor quiet beyond the window, the mission ahead of her. The stillness is earned by the motion of the chapter: arrival, cataloging, handler, cover, room. Now she is still. The reader sits with her in the quiet.
@@ -430,6 +443,8 @@ She sleeps.
 | The town's complicity is revealed | LOCKED | Alexandria sees an incurious town. She does not know they are protecting a network. |
 | Seris is identified | LOCKED | Alexandria sees an old woman; files under *elder, local, non-threatening. Possible information source if cultivated.* |
 | Renne and Hark's separation is revealed | LOCKED | They appear separately, unrecognized. No connection is drawn. |
+| Vallus's crush is revealed or Alexandria notices it | LOCKED | Alexandria catalogs his lingering glance as *subject exhibits standard social attention, not relevant to mission.* |
+| Vallus is incorrectly aged | CORRECTED | Now described as late twenties, lean, young nobleman — matching provided materials. |
 
 ---
 
@@ -444,4 +459,4 @@ She sleeps.
 
 ---
 
-*End of Chapter 1 Elaborated Outline. Ready for prose generation.*
+*End of Chapter 1 Elaborated Outline.*
