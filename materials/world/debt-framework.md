@@ -319,7 +319,6 @@ This is why the Order collects. They do not believe that private training is suf
 
 Hark is evidence to the contrary. Hark was collected. Hark got out. Hark learned to guard somewhere else — probably on his own, probably through trial and error, probably at great cost. He is a trained mage. He is not loyal to the Order.
 
-The Order knows Hark exists. The Order does not know where he is. The carriage in the street was not looking for him. But if a Savant ever stands close enough to read him, Hark's debt will tell its story, and the Order will come.
 
 ---
 
@@ -329,7 +328,7 @@ The Insensitive cannot work magic at all. They are immune, permanent, static. A 
 
 The Sensitive is any untrained magical child. They *can* borrow — but they do not know how to guard. Their visibility is their vulnerability. They are the Order's raw material.
 
-A trained mage is a former Sensitive who has learned to guard, to hide, to control their borrowing and their debt. Hark is a trained mage. The boy with the ruby eyes is not.
+A trained mage is a former Sensitive who has learned to guard, to hide, to control their borrowing and their debt.
 
 The Order collects Sensitives. It employs Savants to read them definitively. It trains some, contains others, and never releases anyone except by accident or escape.
 

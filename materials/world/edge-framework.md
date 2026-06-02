@@ -269,7 +269,7 @@ The Unorthodox Path is not taught. It is accumulated. Its practitioners are call
 
 **Weakness:** Inconsistency. An irregular fighter may defeat a School master one day and lose to a novice the next, because their methods depend heavily on context, surprise, and the opponent's unfamiliarity with chaos.
 
-**Notable Practitioner:** Hark. Hark was collected by the Order as a child Sensitive. Hark escaped before full training. Hark cannot work magic — his Gate never fully opened — but he knows enough about mages to understand their weaknesses. He fights like a man who has spent his life among predators and learned to bite. He belongs to no School. He is, by his own admission, a collection of dirty tricks held together by spite. Mages who underestimate him tend not to repeat the mistake. Most don't survive the first lesson.
+**Notable Practitioner:** Hark. Hark was collected by the Order as a child Sensitive. Hark escaped before full training. He fights like a man who has spent his life among predators and learned to bite. He belongs to no School. He is, by his own admission, a collection of dirty tricks held together by spite. Mages who underestimate him tend not to repeat the mistake. Most don't survive the first lesson.
 
 ---
 
