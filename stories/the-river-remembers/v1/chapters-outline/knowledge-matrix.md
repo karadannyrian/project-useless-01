@@ -384,3 +384,92 @@ The dramatic irony continues to deepen: the reader knows Lea is Hark's lost frie
 - **The Order** remains ignorant of the internal rupture in their asset.
 
 The dramatic irony continues to deepen: the reader knows Lea is Hark's lost friend, while Alexandria knows her only as a dead child and a cold record. The next major shift will come when Alexandria pulls Hark's file (Chapter 12) and begins to assemble the connections.
+
+## Knowledge Matrix — After Chapter 12 (Updated)
+
+---
+
+### Alexandria (POV — Silencer, undercover as junior escort)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| She is a Silencer on a surveillance mission. | Hark's void-like touch suggests he is Insensitive, but his file says Fire Gate—contradiction unresolved. | Hark is her biological father. |
+| Hark is Damian Whiters, escaped Fire/Light mage, unmarked. | — | Hark has already deduced she is a Silencer. |
+| The Order buried his file after he killed an Instructor during his escape at age 10. | — | Hark knows she has pulled his file. |
+| His frost-scars match her observation of his gloves and long sleeves. | — | Renne is her mother (she will discover in Ch 19). |
+| She has not reported him. | — | The co-escapee (Lea) was Hark's closest friend. |
+| The Order conducts Controlled Escape Exercises that kill children. | — | The full scope of Renne's network. |
+| Vara is her handler; she suspects Vara knows more than she admits. | — | The Order is building toward a purge based on her reports. |
+| Vallus is fond of her (she cannot categorize it). | — | Hark and Vara spoke privately about her. |
+| She has glimpsed a healer with bandaged hands (Renne) but has no context. | — | — |
+
+---
+
+### Hark (POV — escaped Fire/Light mage, mercenary)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| He is Damian Whiters, unmarked mage. | Vara is disillusioned and might protect Alexandria. | Alexandria is his daughter. |
+| Alexandria is a Silencer actively reporting to the Order. | Alexandria may be withholding key observations from her reports. | Renne is in Salthaven and suspects Alexandria is their daughter. |
+| Vara is her handler. | — | Alexandria has just pulled his file and knows his true identity. |
+| He has seen Renne's network activity from a distance but avoids her. | — | The Order is building toward a purge based on Alexandria's reports. |
+| His own rules are cracking; he is emotionally invested in Alexandria. | — | — |
+| He should run. He is not running. | — | — |
+
+---
+
+### Renne (POV — Water/Healing mage, network leader)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| The Order has placed a young operative (Alexandria) in Salthaven. | The operative may be her daughter (grey eyes, age). | Alexandria is definitely her daughter (not yet confirmed). |
+| Hark is in Salthaven and she has been avoiding him. | — | Hark is training Alexandria. |
+| The network must stay hidden and protect the children. | — | Alexandria is a Silencer. |
+| She has witnessed Hark and Alexandria training together. | — | Alexandria has discovered Hark's file and his true identity. |
+| Seris urges her to tell the truth. | — | — |
+| She is not ready. | — | — |
+
+---
+
+### Vara (supporting — retired placed mage, Alexandria's handler)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| Alexandria is a Silencer. | Hark is an unmarked mage or Order survivor. | Hark is Damian Whiters (unless she recognized the file). |
+| Hark has identified her as a placed mage. | Alexandria is growing attached to Hark. | Renne's network exists and is the target. |
+| **NEW:** Alexandria has pulled Hark's file and knows he is Damian Whiters. | Alexandria may now be actively protecting Hark. | Alexandria is Renne's daughter. |
+| She helped Alexandria access the file. | — | Hark is Alexandria's father. |
+| Alexandria's indoctrination is cracking. | — | The kill order will come eventually. |
+
+---
+
+### The Network (Marta, Kel, Doren, Seris)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| An Order operative (Alexandria) is in Salthaven. | The operative is highly trained. | The operative is Renne's daughter. |
+| Kel hears her movements; too precise, too quiet. | — | The operative is a Silencer. |
+| Security is tightened. | — | Hark is involved with the operative. |
+| Seris knows Renne's suspicion. | — | The operative now knows Hark is an escaped mage. |
+
+---
+
+### The Order (Curator Vannis, regional branch)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| Alexandria is filing regular reports. | Unmarked activity is connected to League defiance. | Hark is Damian Whiters (file suppressed). |
+| Vara is handling the asset. | — | Alexandria is the daughter of two escapees. |
+| — | — | Alexandria's reports are incomplete. |
+| — | — | Their asset has pulled a suppressed file and is now compromised. |
+
+---
+
+### Key Knowledge Shifts from Chapter 12
+
+- **Alexandria** now knows Hark's true identity and that he is an unmarked mage. She has chosen not to report him, crossing a line from passive observer to active protector (though she may not frame it that way). The contradiction between his Fire Gate file and the void she felt remains unresolved but is overshadowed by her decision to protect him.
+- **Vara** is now complicit in Alexandria's knowledge—she pulled the file and likely suspects Alexandria will not report. Her own position as a disillusioned ex-Order asset is solidified.
+- **Hark** remains unaware that his secret is now known to Alexandria. The dramatic irony shifts: Alexandria knows who he is; he still thinks she sees him only as a mysterious mercenary.
+- **The Order** remains ignorant of both the file access and Alexandria's defection in place.
+
+The next major shift will come when external events (the serpent attack) force physical truths into the open, and when Alexandria later pulls her own foundling record to discover Renne is her mother (Chapter 19).
