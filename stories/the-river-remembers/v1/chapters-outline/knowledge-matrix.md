@@ -570,3 +570,98 @@ The next major shift will come when external events (the serpent attack) force p
 - **The Order** remains blind, but Alexandria's reports are now not just incomplete but actively falsified. The gap between her mission and her actions is now a chasm.
 
 The next major shift will be the midpoint confession (Chapter 18), where Renne tells Hark about Alexandria, and Hark finally learns the truth. Before that, we have Alexandria's foundling record discovery (Chapter 19 in the map, but that happens after the midpoint; wait, the map says Ch 19 is Alexandria's foundling record, Ch 18 is Renne's confession. So next knowledge shift is Renne deciding to approach Hark, and then the confession itself).
+
+## Knowledge Matrix — Before Chapter 15 (Hark — "The Breaking of the Rules")
+
+---
+
+### Alexandria (POV — Silencer, undercover as junior escort)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| She is a Silencer on a surveillance mission. | — | Hark is her biological father. |
+| Hark is Damian Whiters, escaped Fire/Light mage (file confirmed, now witnessed). | — | Renne is her mother (will discover in Ch 19). |
+| She has seen his frost-scars and witnessed his base-state fire. | — | Hark has already deduced she is a Silencer. |
+| He called her "Lea" during the attack; she knows the full significance of that name from the file. | — | Renne is the healer she glimpsed in the market (no connection yet). |
+| She matters to him deeply—he risked exposure and broke his rules to save her. | — | The full scope of Renne's network. |
+| She has lied publicly to protect him and has not reported him. | Vara knows more about Hark than she admits. | The Order is building toward a purge. |
+| Vallus is fond of her (unresolved category). | — | Hark will soon terminate the mentorship without explanation (Ch 15). |
+
+**Emotional state:** The abstract file is now visceral. Her decision to protect Hark is no longer passive—it is an active, public lie. She knows she is a stand-in for Lea, a ghost he couldn't save, and this knowledge deepens her unarticulated bond with him. Her tactical framework is failing to accommodate what she feels.
+
+---
+
+### Hark (POV — escaped Fire/Light mage, mercenary)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| He is Damian Whiters, unmarked mage. | Vara is disillusioned and might protect Alexandria. | Alexandria is his daughter. |
+| Alexandria is a Silencer actively reporting to the Order. | Alexandria may be withholding key observations from her reports. | Alexandria already knew he was a mage from his file *before* the serpent attack. |
+| Vara is her handler. | — | Alexandria knows who "Lea" is and understands the full weight of that name. |
+| He has used magic openly in front of her and six others; she saw his scars. | — | Renne is in Salthaven and suspects Alexandria is their daughter. |
+| He called her "Lea"—a slip that revealed his deepest wound. | — | The Order is building toward a purge. |
+| The crew agreed to a cover story; Alexandria publicly lied to protect him. | — | — |
+| He knows she holds his life in her hands. Her silence and her lie are inexplicable. | — | — |
+| His rules are shattered. He is waiting to see what she does. | — | — |
+
+**Emotional state:** The attack shattered his long-maintained barriers. He is now in a state of suspension—waiting for her to turn him in, or for her to reveal why she hasn't. The question "Why?" is deafening. In Chapter 15, he will terminate the mentorship, unable to bear the vulnerability of her knowing what he is.
+
+---
+
+### Renne (POV — Water/Healing mage, network leader)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| The Order has placed a young operative (Alexandria) in Salthaven. | The operative may be her daughter (grey eyes, age). | Alexandria is definitely her daughter (not yet confirmed). |
+| Hark is in Salthaven and she has been avoiding him. | — | Hark is training Alexandria (mentorship). |
+| A Fire-mage (Hark) used magic openly to save the merchant girl (Alexandria) during the serpent attack. News reached her via Kel or sailors' rumors. | — | Alexandria is a Silencer. |
+| Hark's bond with the girl is now unmistakable—he risked exposure and broke his rules to save her. | — | Alexandria has discovered Hark's file and his true identity. |
+| The network must stay hidden; Seris urges her to tell the truth. | — | Hark is about to terminate the mentorship and withdraw (Ch 15). |
+| She is not ready to approach Hark, but the pressure is mounting. | — | The full extent of Alexandria's emotional entanglement. |
+
+**Emotional state:** The serpent attack is the catalyst that will eventually force her hand. She now knows Hark's connection to Alexandria has deepened to the point of self-sacrifice, and he still doesn't know she is his daughter. The window for her to tell him on her own terms is closing. Chapter 16 will see her decision to approach him.
+
+---
+
+### Vara (supporting — retired placed mage, Alexandria's handler)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| Alexandria is a Silencer. | Hark is an unmarked mage or Order survivor. | Hark is Damian Whiters (unless she connected the dots from the file request). |
+| Hark has identified her as a placed mage and cares about Alexandria. | Alexandria is growing attached to Hark and withholding observations. | Renne's network exists and is the target. |
+| Alexandria has pulled Hark's file and knows he is an escaped mage. | She strongly suspects Alexandria's report on the serpent attack is incomplete and that Alexandria is now compromised. | Hark is Alexandria's father. |
+| Alexandria's indoctrination is cracking. | — | The kill order will come eventually. |
+
+**Emotional state:** Vara is now fairly certain Alexandria is compromised and is actively choosing to protect her by not reporting her suspicions. Her own disillusionment with the Order continues to deepen.
+
+---
+
+### The Network (Marta, Kel, Doren, Seris)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| An Order operative (Alexandria) is in Salthaven. | The operative is highly trained and dangerous. | The operative is Renne's daughter. |
+| Kel can hear her movements; too precise, too quiet. | The "mercenary" involved in the serpent attack was Hark. | The operative is a Silencer. |
+| Kel may have sensed the magical disturbance during the attack, confirming a mage was involved. | — | Hark is an unmarked mage. |
+| Security is tightened. | — | The operative now knows Hark is an escaped mage and is protecting him. |
+
+---
+
+### The Order (Curator Vannis, regional branch)
+
+| Knows | Suspects | Doesn't Know |
+|-------|----------|--------------|
+| Alexandria is filing regular reports (now sanitized). | Unmarked activity is connected to League defiance. | Hark is Damian Whiters (file suppressed). |
+| Vara is handling the asset. | — | Alexandria is the daughter of two escapees. |
+| — | — | Alexandria's reports are significantly incomplete and now actively falsified. |
+| — | — | Their asset has pulled suppressed files and is now protecting an unmarked mage. |
+| — | — | A major magical incident occurred that no one reported. |
+
+---
+
+### Key Knowledge Shifts Leading into Chapter 15
+
+- **Alexandria's knowledge is now fully visceral.** The serpent attack closed the gap between the file and the man. Her public lie and her silence on the ship have made her complicity undeniable. She is no longer just a passive protector; she is an active participant in his concealment.
+- **Hark is in a state of exposed vulnerability.** His rules are broken, his scars are seen, and his deepest wound (Lea's name) has been spoken aloud in front of her. He knows she has enough to destroy him, and he doesn't understand why she hasn't. Chapter 15 will see him retreat into his old patterns—terminating the mentorship, trying to reassert control by cutting the connection before it can be used against him.
+- **Renne is at a tipping point.** The serpent attack has provided the final proof that Hark's bond with Alexandria is deep and self-sacrificing. The next step is her decision to finally tell him the truth, which will come in Chapter 16 (her decision) and Chapter 18 (the confession).
+- **The dramatic irony is at its peak.** Alexandria knows Hark is Damian Whiters and is protecting him. Hark knows she is a Silencer and doesn't understand her protection. Renne suspects Alexandria is her daughter and knows Hark is bonded to her. None of them know the full picture. The next major rupture will be Hark's withdrawal in Chapter 15, which will leave Alexandria feeling abandoned and push her further toward her own discoveries (Ch 19).
